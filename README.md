@@ -114,7 +114,7 @@ Watch the complete project walkthrough video here: [Click to watch the demo](htt
 
 ## ℹ️ For More Information  
 For detailed information regarding the project, setup, and usage:  
-👉 [Click here](https://www.notion.so/Ecommerce-Multi-Vendor-227bd756bbcb808ea72bfb1182d51b3c?source=copy_link)
+👉 [Click here](https://charmed-meeting-8fe.notion.site/Ecommerce-Multi-Vendor-227bd756bbcb808ea72bfb1182d51b3c?pvs=143)
 
 ---
 
